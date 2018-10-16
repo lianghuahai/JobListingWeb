@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+            <input type="checkbox" defaultChecked={false} />
         </header>
       </div>
     );
